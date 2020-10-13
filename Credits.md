@@ -1,1 +1,1 @@
-
+I would like to first thank Edwin Philippe and Leon Gatys for their help in using this project as a way to learn about TensorFlow and Keras. I have used alot of their work as a learning experience and to able impliment this cool project on my own.
