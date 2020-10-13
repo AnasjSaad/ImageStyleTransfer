@@ -5,3 +5,5 @@ I would like to thank Edwin Philippe and Leon Gatys for their help in using this
 Edwin: https://www.linkedin.com/in/edwinpalegre/
 
 Leon Gatys Paper: https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf
+
+I had a lot of fun on working and learning through this project and got some really fascinating results out of it!
